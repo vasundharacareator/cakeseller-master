@@ -1,1 +1,1 @@
-This project for testing anularjs. there is no dependency.
+This project for testing spring. there is no dependency.
